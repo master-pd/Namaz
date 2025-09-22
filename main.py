@@ -6,7 +6,7 @@ import json
 import os
 
 # === Bot Token ===
-BOT_TOKEN = "7899188333:AAFapf1e2OhNNIOsP5Fha6KmmXdox7vBv0E"
+BOT_TOKEN = ""
 bot = telebot.TeleBot(BOT_TOKEN)
 
 # === Contact username ===
