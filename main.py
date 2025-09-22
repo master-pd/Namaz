@@ -26,8 +26,8 @@ IMAGES = [
 
 # === Namaz Times (example fixed times for Dhaka) ===
 NAMAZ_TIMES = {
-    "Fajr": "05:00",
-    "Dhuhr": "12:30",
+    "Fajr": "04:10",
+    "Dhuhr": "1:00",
     "Asr": "16:00",
     "Maghrib": "18:15",
     "Isha": "19:45"
